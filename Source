@@ -1,1 +1,17 @@
-1. https://www.youtube.com/watch?v=_6t6mTm7-Pg
+Weibo:
+1. Simple version (contents under a certain keyword): https://www.youtube.com/watch?v=_6t6mTm7-Pg
+2. Simple version (contents under a certain account): https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/369353/
+3. Complete version (contents of a certain post, with NLP): https://bigdatafinance.tw/index.php/tech/coding/509-python-3
+4. Master vesion: https://github.com/LiuXingMing/SinaSpider
+5. Sentiment analysis: https://github.com/CUHKSZ-TQL/WeiboSpider_SentimentAnalysis
+
+Wechat:
+1. Tutorial video with a post: https://www.youtube.com/watch?v=T-hVHJO0ya0
+
+Little Red Book (xiaohonshu):
+1. https://github.com/HhhuYu/xhs_simple_crawler
+
+TikTok (Douyin):
+1. https://github.com/yalarc/GetDouYinApplication
+2. https://github.com/AmazingUU/Douyin_spider
+
