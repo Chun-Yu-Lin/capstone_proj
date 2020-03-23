@@ -1,17 +1,33 @@
-Weibo:
-1. Simple version (contents under a certain keyword): https://www.youtube.com/watch?v=_6t6mTm7-Pg
-2. Simple version (contents under a certain account): https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/369353/
-3. Complete version (contents of a certain post, with NLP): https://bigdatafinance.tw/index.php/tech/coding/509-python-3
-4. Master vesion: https://github.com/LiuXingMing/SinaSpider
-5. Sentiment analysis: https://github.com/CUHKSZ-TQL/WeiboSpider_SentimentAnalysis
+Work Flow:
+- Choose target platforms
+- Choose target keywords and accounts
+- Build up the scrapper and the crawler
+    * fake header (identity)
+    * scrap data while sneaking from blocking mechanism
+    * store the data in DataFrame (in tabular form)
+    * connect to the database and store the data in which
+- Natural Language Processing
+    * clusterize
+    * assign sentimental score
+    * generate overall sentimental analysis
+- Conduct business intelligence analysis
+-----------------------------------------------------------------------
 
-Wechat:
-1. Tutorial video with a post: https://www.youtube.com/watch?v=T-hVHJO0ya0
+Available tools & codes
+    Weibo:
+    1. Simple version (contents under a certain keyword): https://www.youtube.com/watch?v=_6t6mTm7-Pg
+    2. Simple version (contents under a certain account): https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/369353/
+    3. Complete version (contents of a certain post, with NLP): https://bigdatafinance.tw/index.php/tech/coding/509-python-3
+    4. Master vesion: https://github.com/LiuXingMing/SinaSpider
+    5. Sentiment analysis: https://github.com/CUHKSZ-TQL/WeiboSpider_SentimentAnalysis
 
-Little Red Book (xiaohonshu):
-1. https://github.com/HhhuYu/xhs_simple_crawler
+    Wechat:
+    1. Tutorial video with instructions: https://www.youtube.com/watch?v=T-hVHJO0ya0
 
-TikTok (Douyin):
-1. https://github.com/yalarc/GetDouYinApplication
-2. https://github.com/AmazingUU/Douyin_spider
+    Little Red Book (xiaohonshu):
+    1. https://github.com/HhhuYu/xhs_simple_crawler
+
+    TikTok (Douyin):
+    1. https://github.com/yalarc/GetDouYinApplication
+    2. https://github.com/AmazingUU/Douyin_spider
 
